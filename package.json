@@ -2,5 +2,8 @@
   "name": "nightwatch-experiments",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nightwatch": "^1.1.12"
+  }
 }
